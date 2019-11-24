@@ -17,6 +17,6 @@ Although I've fully commented out my notebook I'll include instructions on how t
   - Convert that response object to JSON
   - Print out the contents of the new JSON object
   - Print out all of the users repos by looping through the length of the JSON object
-  - Print out additional and potentially helpful information about where the repos originated and how many there are
+  - Print out additional and potentially helpful info about where the repos originated and how many there are
   
   * Please note that at the time of running this code I had 9 repos, of which 8 were accessible by the Github API
